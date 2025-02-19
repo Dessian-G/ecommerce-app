@@ -18,7 +18,7 @@ function App() {
     <Router>
     <div >
       <Navbar/>
-        <h1>E-commerce App</h1>
+        <h1>Max Store App</h1>
         
        
         

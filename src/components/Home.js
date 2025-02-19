@@ -4,7 +4,7 @@ import lady2_icon from "../Assets/lady2_icon.jpg";
 const Home = () => {
   return (
     <div style={{ padding: "20px", fontFamily: "Arial, sans-serif" }}>
-      <h2>Welcome to Our E-commerce Store!</h2>
+      <h2>Welcome to Our E-Store!</h2>
       <p>
         Embrace the trend and discover a wide range of products at amazing prices. From electronics to clothing, we have everything you need.
       </p>
